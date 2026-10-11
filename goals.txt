@@ -2,3 +2,8 @@ My Learning Goals:
 1. Master version control with Git
 2. Learn web development
 3. Build software projects
+## Skills I'm Learning
+1 GitHub and version control
+2 Programming fundamentals
+3 ICT concepts
+4 Clickup
